@@ -1,4 +1,4 @@
-# 
+# elite sandwich attack bot plugins is the best sandwich attack bot plugins with auto-buy and back-running. Safe, reliable, and optimized for MEV, sniper, and arbitrage strategies.
 
 
 
